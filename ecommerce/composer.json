@@ -1,9 +1,9 @@
 {
-    "name": "guisposito/ecommerce",
+    "name": "hcodebr/ecommerce",
     "authors": [
         {
-            "name": "Gsprojeto",
-            "email": "guicarlosjoinhas@gmail.com"
+            "name": "Hcode Treinamentos",
+            "email": "suporte@hcode.com.br"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
